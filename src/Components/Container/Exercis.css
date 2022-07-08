@@ -1,0 +1,13 @@
+.ContainerDiv {
+   width:100%;
+    display:flex;
+    flex-direction: row;
+}
+
+.todo-component{
+    width:45%;
+}
+
+.message-component{
+    width: 45%;
+}

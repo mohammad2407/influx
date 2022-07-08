@@ -1,0 +1,14 @@
+.message-input{
+    position: absolute;
+    border : 1px solid black;
+    
+}
+
+.message-container{
+    width: 80%;
+    background: #fff;
+    border: 1px solid rgb(206, 199, 199);
+    box-shadow: 1px 2px 3px #dbd4d4;
+    margin-left:30%;
+    margin-top:30px;
+}
